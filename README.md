@@ -19,4 +19,12 @@ Tm: Team name each player belongs to at the beginning of the 2017- 2018 season
 seson17_18: Salary price for 2017-2018 season (USD).
 
 ```
+
+### 4. Methodology
+```
+Data pre-processing: clean all missing data 
+Data analysis: exploratory data analysis 
+Prepare data for modeling: Which include convert all categorical data into numarical variables.
+Build models and evaluation:  building 3 models and evaluate the performance. 
  
+```
